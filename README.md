@@ -4,7 +4,6 @@
 
 - 👨🏻‍🚀 Currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🎮 Interested in games 
-- 👨🏻‍💻 Pronouns: He/Him 
 
 ---
 <h2 align="center"> ---> 42 tracking <--- </h2>
