@@ -2,7 +2,7 @@
 
 <h2> About me</h2>
 
-- 👨🏻‍🚀 Currently studying Software Engineering as a Cadet at (https://www.42sp.org.br/)
+- 👨🏻‍🚀 Currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🎮 Interested in games 
 - 👨🏻‍💻 Pronouns: He/Him 
 
