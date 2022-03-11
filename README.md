@@ -7,19 +7,15 @@
 
 ---
 <h2 align="center"> ---> 42 tracking <--- </h2>
-<!-- <h3> \-\-\-\> Level Status </h3> -->
 
-<div>
-  <p align="center"><img width="80%" height="auto" src="https://badge42.herokuapp.com/api/stats/dipelaez?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
-</div>
 
 <h3> ---> 42_projects </h3>
 
 <div>
   <a href="https://github.com/dipelaez/libft" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
-  <p><img src="https://badge42.herokuapp.com/api/project/dipelaez/Libft" ></p>
+  
   <a href="https://github.com/dipelaez/get_next_line" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
-  <p><img src="https://badge42.herokuapp.com/api/project/dipelaez/get_next_line" ></p>
+  
 </div>
 
 ---
