@@ -2,21 +2,10 @@
 
 <h2> About me</h2>
 
-- 👨🏻‍🚀 Currently studying as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🎮 Interested in games 
 
 ---
-<h2 align="center"> ---> 42 tracking <--- </h2>
 
-
-<h3> ---> 42_projects </h3>
-
-<div>
-  <a href="https://github.com/dipelaez/libft" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
-  
-  <a href="https://github.com/dipelaez/get_next_line" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
-  
-</div>
 
 ---
 <h2 align="center"> ---> Work space <--- </h2>
