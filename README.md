@@ -2,7 +2,7 @@
 
 <h2> About me</h2>
 
-- 🎮 Interested in games 
+ 
 
 ---
 
